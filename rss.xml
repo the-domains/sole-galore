@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sole Galore]]></title>
+        <description><![CDATA[Sole Galore]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 10:04:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f0e3d4c-8e7b-4d2c-9f2d-d1b42e39296e.jpg">]]></description>
+            <link>undefinede9ebcf54-a39c-459a-9505-8c6345849d11/index.html</link>
+            <guid isPermaLink="false">e9ebcf54-a39c-459a-9505-8c6345849d11</guid>
+            <pubDate>Tue, 10 May 2016 10:04:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
